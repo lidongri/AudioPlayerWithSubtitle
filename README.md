@@ -1,0 +1,2 @@
+# AudioPlayerWithSubtitle
+一个播放音频显示字幕的demo。用的是srt字幕文件
