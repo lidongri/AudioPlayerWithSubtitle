@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+AudioPlayerWithSubtitle in AudioPlayerWithSubtitle, no dependencies
+AudioPlayerWithSubtitleTests in AudioPlayerWithSubtitle, depends on:
+AudioPlayerWithSubtitle in AudioPlayerWithSubtitle (explicit)
+AudioPlayerWithSubtitleUITests in AudioPlayerWithSubtitle, depends on:
+AudioPlayerWithSubtitle in AudioPlayerWithSubtitle (explicit)

@@ -1,0 +1,20 @@
+//
+//  PrefixHeader.pch
+//  AudioPlayerWithSubtitle
+//
+//  Created by lidongri on 2023/9/22.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "MGSlider.h"
+#import "UIColor+BWColor.h"
+#import "YSFrameAdapter.h"
+#import "YSCheck.h"
+#import "YSAppInfo.h"
+#import "YSUtils.h"
+#import "UILabel+YSKit.h"
+#import "Masonry.h"
+
+#endif /* PrefixHeader_pch */
